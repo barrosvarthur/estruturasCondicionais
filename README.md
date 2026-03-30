@@ -40,6 +40,7 @@ Avalia a nota de um aluno:
 
 ≥ 7 → Aprovado
 < 7 → Reprovado
+
 ✅ Exercício 7 — Classificação de idade
 
 Classifica a pessoa como:
@@ -47,12 +48,14 @@ Classifica a pessoa como:
 Criança (< 12)
 Adolescente (12 a 17)
 Adulto (18+)
+
 ✅ Exercício 8 — Verificação de login simples
 
 Simula um sistema de login:
 
 Usuário: admin
 Senha: 1234
+
 ✅ Exercício 9 — Cálculo de desconto
 
 Aplica 10% de desconto em compras acima de 100.
