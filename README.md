@@ -92,7 +92,7 @@ Aplica 10% de desconto para valores acima de R$ 100.
 
 ## 🛠️ Tecnologias
 
-- Portugol Studio *(ou adicione a linguagem que usou)*
+- Portugol Studio 
 - Lógica de programação
 
 ---
