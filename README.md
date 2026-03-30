@@ -60,22 +60,3 @@ Aplica 10% de desconto em compras acima de 100.
 ✅ Exercício 10 — Sistema de notas
 
 Classifica o desempenho do aluno:
-
-Nota	Situação
-9 ou mais	Excelente
-7 a 8.9	Aprovado
-5 a 6.9	Recuperação
-abaixo de 5	Reprovado
-🛠️ Tecnologias Utilizadas
-Linguagem de programação: (adicione aqui, ex: Portugol / Python / Java / C++)
-Lógica de programação
-📌 Como Executar
-Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Acesse a pasta:
-cd seu-repositorio
-Execute os arquivos conforme a linguagem utilizada.
-💡 Observações
-Todos os exercícios já estão funcionando corretamente.
-O foco principal é o aprendizado e prática de lógica.
-Ideal para iniciantes em programação.
