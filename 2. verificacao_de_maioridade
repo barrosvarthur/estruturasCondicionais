@@ -1,0 +1,19 @@
+programa 
+{
+  funcao inicio() 
+  {
+    inteiro idade
+
+    escreva("Digite uma idade para confirmar a maioridade: ")
+    leia(idade)
+
+    se(idade >= 18)
+    {
+      escreva("A pessoa é maior de idade.")
+    }
+    senao
+    {
+      escreva("A pessoa ainda é menor de idade.")
+    }
+  }
+}
