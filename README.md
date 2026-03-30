@@ -1,65 +1,91 @@
-📘 Exercícios Progressivos — Estruturas Condicionais
+# 💻 Calculadora de Imposto de Renda — Portugol Studio
 
-Este repositório contém uma série de exercícios progressivos focados no uso de estruturas condicionais, fundamentais na lógica de programação.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen">
+  <img src="https://img.shields.io/badge/linguagem-Portugol-blue">
+  <img src="https://img.shields.io/badge/foco-lógica%20de%20programação-orange">
+</p>
 
-Os exercícios foram desenvolvidos com o objetivo de fortalecer a tomada de decisão em algoritmos utilizando condições como if, else e operadores lógicos.
+---
 
-🚀 Objetivo
+## 📌 Sobre o Projeto
 
-Praticar e consolidar conceitos essenciais como:
+Este projeto consiste em um algoritmo desenvolvido em **Portugol Studio** que realiza o cálculo de imposto de renda com base em regras condicionais.
 
-Estruturas condicionais (if, else, else if)
-Operadores relacionais (>, <, >=, <=, ==)
-Operadores lógicos
-Entrada e saída de dados
-Tomada de decisão em algoritmos
-📂 Lista de Exercícios
-✅ Exercício 1 — Verificação de número positivo
+A aplicação simula um cenário real de um **freelancer**, considerando fatores como:
 
-Verifica se um número inteiro é maior que zero.
+- Faixa salarial
+- Condição de estudante
+- Recebimento de benefícios sociais
 
-✅ Exercício 2 — Verificação de maioridade
+---
 
-Determina se uma pessoa é maior de idade (18 anos ou mais).
+## 🚀 Funcionalidades
 
-✅ Exercício 3 — Número par
+✔ Leitura de dados do usuário  
+✔ Cálculo automático do imposto  
+✔ Aplicação de regras especiais  
+✔ Exibição do salário líquido  
+✔ Estrutura lógica organizada  
 
-Identifica se um número é par utilizando o operador % (resto da divisão).
+---
 
-✅ Exercício 4 — Número positivo ou negativo
+## 🧠 Regras de Negócio
 
-Classifica um número como positivo ou negativo.
+### 📊 Tributação padrão
 
-✅ Exercício 5 — Maior entre dois números
+| Faixa Salarial         | Imposto |
+|----------------------|--------|
+| Até R$ 2.000,00      | Isento |
+| R$ 2.000,01 - 4.000  | 10%    |
+| Acima de R$ 4.000    | 20%    |
 
-Compara dois números e exibe qual é o maior.
+---
 
-✅ Exercício 6 — Aprovado ou reprovado
+### ⚠️ Regra especial
 
-Avalia a nota de um aluno:
+Se o usuário for:
 
-≥ 7 → Aprovado
-< 7 → Reprovado
+- 🎓 Estudante  
+- 🏦 Beneficiário  
 
-✅ Exercício 7 — Classificação de idade
+E possuir renda acima de R$ 2.000:
 
-Classifica a pessoa como:
+➡️ Imposto fixo de **3%**
 
-Criança (< 12)
-Adolescente (12 a 17)
-Adulto (18+)
+---
 
-✅ Exercício 8 — Verificação de login simples
+## 📥 Entradas
 
-Simula um sistema de login:
+O programa solicita:
 
-Usuário: admin
-Senha: 1234
+- Salário bruto  
+- Se é estudante  
+- Se recebe benefício  
 
-✅ Exercício 9 — Cálculo de desconto
+---
 
-Aplica 10% de desconto em compras acima de 100.
+## 📤 Saídas
 
-✅ Exercício 10 — Sistema de notas
+O sistema retorna:
 
-Classifica o desempenho do aluno:
+- Valor do imposto  
+- Salário líquido  
+- Informações do cálculo  
+
+---
+
+## 🛠️ Tecnologias
+
+- Portugol Studio
+- Lógica de programação
+
+---
+
+## ▶️ Como Executar
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+# Abra no Portugol Studio
