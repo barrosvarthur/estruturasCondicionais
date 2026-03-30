@@ -1,1 +1,81 @@
-Lógica de Programação com Portugol 💻Este repositório foi criado para armazenar e organizar exercícios práticos de lógica de programação desenvolvidos utilizando a linguagem Portugol (Portugol Studio). O objetivo é demonstrar a base de algoritmos, manipulação de variáveis e estruturas de controle.🚀 Exercícios IncluídosAbaixo estão os detalhes de cada programa desenvolvido:1. Verificação de número positivo: Algoritmo que identifica se um valor inserido é positivo, negativo ou nulo ($0$).2. Verificação de maioridade: Programa que solicita a idade e informa se o usuário já atingiu a maioridade (18 anos).3. Número par: Identifica se um número é par ou ímpar através do operador de resto da divisão (%).4. Número positivo ou negativo: Versão simplificada de verificação para classificar entradas numéricas.5. Maior entre dois números: Compara dois valores distintos e retorna qual é o maior ou se ambos são iguais.6. Aprovado ou reprovado: Sistema que valida se uma nota escolar está entre 0 e 10 e define a aprovação (média 7).7. Classificação de idade: Categoriza o usuário em grupos (Criança, Adolescente ou Adulto) conforme a idade informada.8. Verificação de login simples: Simulação de acesso ao sistema validando usuário (admin) e senha (1234).9. Cálculo de desconto: Aplica automaticamente um desconto de 10% ($valor * 0.9$) para compras com valor igual ou superior a R$ 100.10. Sistema de notas: Classificação acadêmica detalhada que varia entre "Excelente", "Aprovado", "Recuperação" e "Reprovado".🛠️ Tecnologias e Conceitos AplicadosDurante o desenvolvimento destes exercícios, foram colocados em prática os seguintes conceitos:Entrada e Saída de Dados: Uso de escreva() e leia() para interação com o usuário.Estruturas Condicionais: Implementação de se, senao se e senao para tomada de decisões.Operadores Lógicos: Utilização de e e ou para validação de múltiplas condições simultâneas.Operadores Aritméticos: Cálculos de porcentagem e verificação de divisibilidade.Tipos de Variáveis: Manipulação de dados do tipo inteiro, real e cadeia.📖 Como ExecutarPara testar os códigos deste repositório:Faça o download do Portugol Studio.Abra os arquivos com a extensão .por no ambiente de desenvolvimento.Clique no botão "Executar" para iniciar os programas.
+📘 Exercícios Progressivos — Estruturas Condicionais
+
+Este repositório contém uma série de exercícios progressivos focados no uso de estruturas condicionais, fundamentais na lógica de programação.
+
+Os exercícios foram desenvolvidos com o objetivo de fortalecer a tomada de decisão em algoritmos utilizando condições como if, else e operadores lógicos.
+
+🚀 Objetivo
+
+Praticar e consolidar conceitos essenciais como:
+
+Estruturas condicionais (if, else, else if)
+Operadores relacionais (>, <, >=, <=, ==)
+Operadores lógicos
+Entrada e saída de dados
+Tomada de decisão em algoritmos
+📂 Lista de Exercícios
+✅ Exercício 1 — Verificação de número positivo
+
+Verifica se um número inteiro é maior que zero.
+
+✅ Exercício 2 — Verificação de maioridade
+
+Determina se uma pessoa é maior de idade (18 anos ou mais).
+
+✅ Exercício 3 — Número par
+
+Identifica se um número é par utilizando o operador % (resto da divisão).
+
+✅ Exercício 4 — Número positivo ou negativo
+
+Classifica um número como positivo ou negativo.
+
+✅ Exercício 5 — Maior entre dois números
+
+Compara dois números e exibe qual é o maior.
+
+✅ Exercício 6 — Aprovado ou reprovado
+
+Avalia a nota de um aluno:
+
+≥ 7 → Aprovado
+< 7 → Reprovado
+✅ Exercício 7 — Classificação de idade
+
+Classifica a pessoa como:
+
+Criança (< 12)
+Adolescente (12 a 17)
+Adulto (18+)
+✅ Exercício 8 — Verificação de login simples
+
+Simula um sistema de login:
+
+Usuário: admin
+Senha: 1234
+✅ Exercício 9 — Cálculo de desconto
+
+Aplica 10% de desconto em compras acima de 100.
+
+✅ Exercício 10 — Sistema de notas
+
+Classifica o desempenho do aluno:
+
+Nota	Situação
+9 ou mais	Excelente
+7 a 8.9	Aprovado
+5 a 6.9	Recuperação
+abaixo de 5	Reprovado
+🛠️ Tecnologias Utilizadas
+Linguagem de programação: (adicione aqui, ex: Portugol / Python / Java / C++)
+Lógica de programação
+📌 Como Executar
+Clone o repositório:
+git clone https://github.com/seu-usuario/seu-repositorio.git
+Acesse a pasta:
+cd seu-repositorio
+Execute os arquivos conforme a linguagem utilizada.
+💡 Observações
+Todos os exercícios já estão funcionando corretamente.
+O foco principal é o aprendizado e prática de lógica.
+Ideal para iniciantes em programação.
